@@ -1,1 +1,1 @@
-# studybuddy-platform
+# StudyBuddy - Platforma Akademicka
